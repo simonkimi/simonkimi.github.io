@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /2020/
+Disallow: /2022/
+Disallow: /2024/
+Disallow: /2025/
+Disallow: /2026/
+
+Sitemap: https://simonkimi.github.io/sitemap.xml
